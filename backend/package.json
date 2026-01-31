@@ -1,0 +1,9 @@
+{
+  "name": "unisurevive-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "sqlite3": "^5.1.7"
+  }
+}
